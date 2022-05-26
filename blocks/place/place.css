@@ -1,7 +1,7 @@
 .place {
     display: grid;
     width: 100%;
-    grid-template-columns: fit-content(460px) 1fr;
+    grid-template-columns: 460px 1fr;
     grid-template-rows: repeat(2, auto);
     gap: 48px 40px;
     box-sizing: border-box;
