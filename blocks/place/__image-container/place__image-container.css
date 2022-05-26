@@ -1,0 +1,8 @@
+.place__image-container {
+    width: 100%;
+    padding-bottom: 100%;
+    grid-area: image;
+    background-image: url(../../../images/place-kosa.jpg);
+    background-position: center;
+    background-size: cover;
+}
