@@ -1,7 +1,7 @@
-.photo-grid__list {
+.gallery {
   display: grid;
   max-width: 100%;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(auto-fill, minmax(284px, 1fr));
   grid-template-rows: repeat(3, 213px);
   gap: 16px;
   background-color: aqua;
