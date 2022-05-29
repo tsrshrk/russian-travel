@@ -1,0 +1,33 @@
+.cover__link {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 740px;
+  box-sizing: border-box;
+  max-width: 100%;
+  position: relative;
+  z-index: 0;
+  overflow: hidden;
+  color: #fff;
+  text-decoration: none;
+}
+
+.cover__link:before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,.6);
+  opacity: 0.5;
+  z-index: -1;
+  transition: opacity .2s ease-in-out;
+}
+
+.cover__link:hover:before {
+  opacity: .9;
+}
