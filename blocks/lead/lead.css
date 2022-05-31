@@ -1,5 +1,6 @@
 .lead {
   width: calc(100% - 148px*2);
   margin: 56px auto 0;
+  line-height: 0;
   box-sizing: border-box;
 }

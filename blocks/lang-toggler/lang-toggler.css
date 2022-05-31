@@ -1,3 +1,8 @@
 .lang-toggler {
-  /* Заготовка для переключения языков */
+  /* Заготовка для панели переключения языков */
+  display: flex;
+  column-gap: 18px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }

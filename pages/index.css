@@ -5,8 +5,9 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/lang-toggler/lang-toggler.css);
-@import url(../blocks/header/__lang-link/header__lang-link.css);
-@import url(../blocks/header/__lang-link/_focused/header__lang-link_focused.css);
+@import url(../blocks/lang-toggler/__item/lang-toggler__item.css);
+@import url(../blocks/lang-toggler/__link/lang-toggler__link.css);
+@import url(../blocks/lang-toggler/__link/_focused/lang-toggler__link_focused.css);
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);

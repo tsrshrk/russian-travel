@@ -1,0 +1,12 @@
+.lang-toggler__link {
+  font-size: 24px;
+  line-height: 1.15;
+  font-weight: 400;
+  text-decoration: none;
+  color: #fff;
+  transition: opacity .3s linear .3s;
+}
+
+.lang-toggler__link:hover {
+  opacity: .6;
+}
