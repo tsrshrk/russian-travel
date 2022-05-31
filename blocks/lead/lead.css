@@ -4,3 +4,10 @@
   line-height: 0;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 1136px) {
+  .lead {
+    width: calc(100% - 48px*2);
+    margin-top: 48px;
+  }
+}

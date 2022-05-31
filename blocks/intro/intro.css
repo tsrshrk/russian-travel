@@ -3,3 +3,9 @@
   box-sizing: border-box;
   margin-left: 148px;
 }
+
+@media screen and (max-width: 1136px) {
+  .intro {
+    margin-left: 48px;
+  }
+}

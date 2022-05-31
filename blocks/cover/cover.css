@@ -4,3 +4,9 @@
   margin: 0 auto;
   padding: 0;
 }
+
+@media screen and (max-width: 1136px) {
+  .cover {
+    max-width: 100%;
+  }
+}
