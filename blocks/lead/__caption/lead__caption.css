@@ -6,3 +6,9 @@
   text-transform: uppercase;
   margin: 0;
 }
+
+@media screen and (max-width: 960px) {
+  .lead__caption {
+    margin-left: 24px;
+  }
+}

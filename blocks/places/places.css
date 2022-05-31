@@ -10,3 +10,10 @@
     width: calc(100% - 48px*2);
   }
 }
+
+@media screen and (max-width: 960px) {
+  .places {
+    width: calc(100% - 24px*2);
+    row-gap: 73px;
+  }
+}

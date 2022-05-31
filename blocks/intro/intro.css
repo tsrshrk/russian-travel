@@ -9,3 +9,10 @@
     margin-left: 48px;
   }
 }
+
+@media screen and (max-width: 960px) {
+  .intro {
+    max-width: 720px;
+    margin: 0 auto;
+  }
+}
