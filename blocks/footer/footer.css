@@ -10,3 +10,11 @@
     width: calc(100% - 24px*2);
   }
 }
+
+@media screen and (max-width: 690px) {
+  .footer {
+    flex-direction: column;
+    margin: 0 0 24px 16px;
+    row-gap: 48px;
+  }
+}

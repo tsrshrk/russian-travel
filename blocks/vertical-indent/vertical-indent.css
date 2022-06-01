@@ -7,3 +7,9 @@
     margin-bottom: 88px;
   }
 }
+
+@media screen and (max-width: 555px) {
+  .vertical-indent {
+    margin-bottom: 64px;
+  }
+}

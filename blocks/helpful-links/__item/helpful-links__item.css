@@ -5,3 +5,9 @@
 .helpful-links__item:last-of-type {
     margin: 0;
 }
+
+@media screen and (max-width: 690px) {
+  .helpful-links__item {
+    margin: 0 0 32px 0;
+  }
+}

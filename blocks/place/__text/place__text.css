@@ -3,3 +3,10 @@
     padding: 0;
     grid-area: text;
 }
+
+@media screen and (max-width: 555px) {
+  .place__text {
+    width: calc(100% - 16px*2);
+    margin: 0 auto;
+  }
+}

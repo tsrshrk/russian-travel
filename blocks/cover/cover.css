@@ -26,3 +26,9 @@
     min-height: 480px;
   }
 }
+
+@media screen and (max-width: 555px) {
+  .cover {
+    min-height: 200px;
+  }
+}

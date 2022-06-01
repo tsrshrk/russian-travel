@@ -16,3 +16,9 @@
     margin: 0 auto;
   }
 }
+
+@media screen and (max-width: 690px) {
+  .intro {
+    width: calc(100% - 16px*2);
+  }
+}

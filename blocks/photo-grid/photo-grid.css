@@ -8,3 +8,9 @@
     max-width: calc(100% - 24px*2);
   }
 }
+
+@media screen and (max-width: 500px) {
+  .photo-grid {
+    max-width: calc(100% - 16px*2);
+  }
+}
