@@ -7,7 +7,7 @@
     box-sizing: border-box;
     grid-template-areas:
         "title website"
-        "image text"
+        "image text";
 }
 
 @media screen and (max-width: 1136px) {
@@ -38,6 +38,6 @@
         "title"
         "website"
         "image"
-        "text"
+        "text";
   }
 }
