@@ -5,12 +5,12 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/lang-toggler/lang-toggler.css);
-@import url(../blocks/lang-toggler/__item/lang-toggler__item.css);
 @import url(../blocks/lang-toggler/__link/lang-toggler__link.css);
 @import url(../blocks/lang-toggler/__link/_focused/lang-toggler__link_focused.css);
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__figure/lead__figure.css);
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
 @import url(../blocks/intro/intro.css);
@@ -18,6 +18,7 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/overall/overall.css);
 @import url(../blocks/overall/__item/overall__item.css);
+@import url(../blocks/overall/__item-number/overall__item-number.css);
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/gallery/gallery.css);
 @import url(../blocks/gallery/__item/gallery__item.css);
@@ -32,13 +33,13 @@
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/cover/cover.css);
-@import url(../blocks/cover/__link.css/cover__link.css);
+@import url(../blocks/cover/__link/cover__link.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/__info/footer__info.css);
 @import url(../blocks/helpful-links/helpful-links.css);
 @import url(../blocks/helpful-links/__item/helpful-links__item.css);
 @import url(../blocks/helpful-links/__link/helpful-links__link.css);
 @import url(../blocks/author/author.css);
-@import url(../blocks/vertical-indent/vertical-indent.css);
+@import url(../blocks/page/__section-indent/page__section-indent.css);
+
